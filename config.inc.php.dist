@@ -1,0 +1,7 @@
+<?php
+// Dynalogin server
+$rcmail_config['dynalogin_server'] = 'localhost';
+
+//Dynalogin port
+$rcmail_config['dynalogin_port'] = '9050';
+?>

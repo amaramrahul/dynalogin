@@ -37,5 +37,5 @@ GPLv3
 Author
 ------
 
-Rahul Amaram <amaramrahul@users.sourceforge.net>
+Rahul Amaram (amaramrahul@users.sourceforge.net)
 
